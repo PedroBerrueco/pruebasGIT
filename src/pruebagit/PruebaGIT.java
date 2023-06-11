@@ -7,7 +7,7 @@ public class PruebaGIT {
 		String nombre = "Pedro";
 		
 		
-		System.out.println("Hola soy " + nombre );
+		System.out.println("Hola soy " + nombre + " y esto es develop");
 
 	}
 
